@@ -21,5 +21,5 @@ if(resposta == numero){
 if(resposta != numero){
     alert("O valor correto era "+numero+"!")
 }
-
+//Testando atualização
 // console.log(valorAleatorio(10,0));
